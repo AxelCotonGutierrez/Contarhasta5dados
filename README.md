@@ -1,6 +1,6 @@
 # Contar hasta 5 usando dados
 
-![Juego de los dados](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar5/jcontar5d.jpg)
+![Juego de los dados](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/03JContar5/jcontar5d.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
