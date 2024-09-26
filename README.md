@@ -10,6 +10,14 @@ Puedes probar el juego en esta url:
 
 https://axelcotongutierrez.github.io/Contarhasta5dados/
 
+Para saber como se juega:
+
+https://youtu.be/FY1GXFyt8sQ?si=H694tTGugWmM8gTN
+
+Puedes ver la expliación el código aquí:
+
+https://youtu.be
+
 ¡Bienvenido al emocionante juego "Contando con Dados"! ¿Estás listo para poner a prueba tus habilidades de conteo mientras te diviertes con dados? Prepárate para desafiar tu mente y demostrar que eres capaz de contar hasta cinco utilizando los dados.
 
 En este fascinante juego, aparecerá un dado en la pantalla con un número aleatorio de puntos, que puede ser uno, dos, tres, cuatro o cinco. Tu objetivo es contar correctamente los puntos en el dado y pulsar los botones correspondientes (1, 2, 3, 4 o 5) para indicar cuántos puntos hay. Pero hay un reto adicional: ¡tienes que hacerlo durante cinco turnos seguidos sin cometer errores!
