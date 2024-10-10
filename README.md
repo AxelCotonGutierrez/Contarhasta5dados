@@ -12,11 +12,11 @@ https://axelcotongutierrez.github.io/Contarhasta5dados/
 
 Para saber como se juega:
 
-https://youtu.be/FY1GXFyt8sQ?si=H694tTGugWmM8gTN
+https://www.youtube.com/watch?v=gdOjBQhk9T0
 
 Puedes ver la expliación el código aquí:
 
-https://youtu.be
+https://www.youtube.com/watch?v=SRH_XsvWb98
 
 ¡Bienvenido al emocionante juego "Contando con Dados"! ¿Estás listo para poner a prueba tus habilidades de conteo mientras te diviertes con dados? Prepárate para desafiar tu mente y demostrar que eres capaz de contar hasta cinco utilizando los dados.
 
